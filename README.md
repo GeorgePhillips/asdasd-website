@@ -79,3 +79,5 @@ This site uses the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) pl
 
 * Reused around the site to save multiple editing locations.
 * Set in the *Data* / *Company* section.
+* 
+
