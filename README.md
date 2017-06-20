@@ -69,6 +69,7 @@ This site uses the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) pl
 
 [Mailchimp](https://mailchimp.com/) is a third party embeddable newsletter for websites. To install:
 
+
 1. Set up a campaign on Mailchimp
 2. Find the embed code for the sign up form
 3. Copy the `<form>`'s action url
