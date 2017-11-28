@@ -4,4 +4,4 @@ image: /images/wooly.jpg
 ---
 
 
-Who grew up a far
+Who grew up afar
