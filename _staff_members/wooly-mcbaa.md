@@ -1,5 +1,5 @@
 ---
-name: Wooly McBaa
+name: Wooly McBleet
 image: /images/wooly.jpg
 ---
 
