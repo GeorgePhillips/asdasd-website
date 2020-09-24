@@ -3,7 +3,7 @@ baseurl:
 google_analytics_key:
 
 collections:
-  - "staff_members"
+  staff_members:
 
 permalink: pretty
 
